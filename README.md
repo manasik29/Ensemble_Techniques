@@ -7,3 +7,7 @@
 **- AdaBoosting**
 
 **- Stacking**
+
+**- XGBM**
+
+**- LGBM**
